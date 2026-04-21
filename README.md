@@ -24,7 +24,7 @@
 
 ---
 
-## 🚀 Ejecución local
+## 🚀 Ejecución Local
 
 <details open>
 <summary><b>1. 🐍 Entorno y dependencias (PowerShell)</b></summary>
@@ -82,7 +82,7 @@ docs/Datos/
 
 **Desde la app:** descarga de `steam_reviews_sentiment.csv` (tabla ancha) y/o ZIP `steam_reviews_structured_tables.zip` con `games.csv`, `reviews_raw.csv`, `reviews_features.csv`, `scrape_runs.csv`.
 
-**En el repo (`docs/Datos/`):** misma forma de tablas, de una corrida de referencia, para revisar el esquema sin levantar Streamlit.
+**En el repo (`docs/Datos/`):** Misma forma de tablas, de una corrida de referencia, para revisar el esquema sin levantar Streamlit.
 
 | Archivo | Enlace |
 |---------|--------|
