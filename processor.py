@@ -2,6 +2,7 @@ import pandas as pd
 
 
 def enrich_reviews_dataframe(df: pd.DataFrame, long_review_threshold: int = 120) -> pd.DataFrame:
+    #Estructura en columnas
     """Añade columnas derivadas para análisis."""
     if df.empty:
         return df
