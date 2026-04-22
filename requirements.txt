@@ -1,1 +1,6 @@
 ##Primer comentario
+
+# ⚽ API de predicción de resultados deportivos
+
+> **📌 Descripción del proyecto**  
+> Analizar datos deportivos y generar pronósticos de resultados de partidos mediante reglas heurísticas y datos históricos
