@@ -1,1 +1,9 @@
-##Primer
+streamlit
+requests
+beautifulsoup4
+pandas
+transformers
+torch
+torchvision
+sentencepiece
+tiktoken
